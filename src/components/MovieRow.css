@@ -1,0 +1,25 @@
+.formatTable {
+    margin: 20px;
+    background-color: rgb(209, 209, 209);
+    display: block;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.tableCell {
+    padding: 10px;
+}
+
+
+img {
+    /* radius: 10px; */
+    border-radius: 10px;;
+}
+
+img:hover {
+    transform: scale(1.1);
+    /* scale: 2; */
+    transition: all 0.2s linear;
+    max-height: 100%;
+
+}
